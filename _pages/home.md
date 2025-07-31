@@ -16,5 +16,6 @@ feature_row:
     title: "Data release"
     url: https://feast-survey.github.io/data_release_post/
 ---
-{% include feature_row %}
 {% include feature_row id="feature_row2" type="left" %}
+{% include feature_row %}
+
