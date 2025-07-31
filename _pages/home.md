@@ -1,4 +1,5 @@
 ---
+title: "FEAST: Feedback in Emerging extrAgalactic Star clusTers
 layout: splash
 permalink: /
 hidden: true
