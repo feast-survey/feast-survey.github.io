@@ -2,5 +2,5 @@
 main:
   - title: "Data"
     url: https://feast-survey.github.io/data_release_post/
-   - title: "People"
+  - title: "People"
     url: https://feast-survey.github.io/
