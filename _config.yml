@@ -325,6 +325,4 @@ defaults:
       comments: # true
       share: true
       related: true
-# Enable navigation data
-navigation:
-  enabled: true
+
