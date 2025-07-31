@@ -1,7 +1,7 @@
 ---
 title: "FEAST data release"
 header:
-  image: /images/potm2308a.jpg
+  image: /images/M51miri.jpg
   caption: "Photo credit:ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
 
 ---
