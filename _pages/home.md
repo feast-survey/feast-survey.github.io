@@ -5,5 +5,5 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /images/M83miri.jpeg
+  overlay_image: /images/m83miri.jpeg
 ---
