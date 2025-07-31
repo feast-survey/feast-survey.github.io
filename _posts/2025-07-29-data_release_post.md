@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "FEAST data release"
 header:
   image: /images/M51miri.jpg
