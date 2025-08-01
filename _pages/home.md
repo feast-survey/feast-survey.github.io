@@ -8,9 +8,9 @@ header:
   overlay_image: /images/m83miri.jpeg
 feature_row2:
   - image_path: /images/logoFEASTvec.svg
-    alt: "placeholder image 2"
+    #alt: "placeholder image 2"
     title: "What is FEAST"
-    excerpt: 'Add description'
+    excerpt: 'here we will have a description of the survey'
 feature_row:
   - image_path: 
     title: "Data release"
