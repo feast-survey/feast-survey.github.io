@@ -5,14 +5,39 @@
 - name: Daniela Calzetti
   institution: UMass Amherst
   image: /images/user.png  
-- name: Linda Smith
+- name: Linda J. Smith
   institution: STScI
+  image: /images/user.png  
+- name: Arjan Bik
+  institution: Stockholm University 
+  image: /images/user.png  
+- name: Sean T. Linden
+  institution: University of Arizona
+  image: /images/user.png 
+- name: Bruce Elmegreen
+  image: /images/user.png  
+- name: Monica Tosi
+  institution: INAF Bologna
+  image: /images/user.png 
+- name: Matteo Messa
+  institution: INAF Bologna
+  image: /images/user.png 
+- name: Göran Östlin
+  institution: Stockholm University 
   image: /images/user.png  
 - name: Helena Faustino Vieira
   institution: Stockholm University 
   role: Postdoc
   image: /images/user.png
 - name: Alex Pedrini
+  institution: Stockholm University 
+  role: PhD Student
+  image: /images/user.png
+- name: Benjamin Gregg
+  institution: UMass Amherst
+  role: PhD Student
+  image: /images/user.png
+- name: Giacomo Bortolini
   institution: Stockholm University 
   role: PhD Student
   image: /images/user.png
