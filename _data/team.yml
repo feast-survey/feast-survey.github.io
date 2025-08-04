@@ -1,13 +1,18 @@
 - name: Angela Adamo
+  institution: Stockholm University 
   role: Principal Investigator
   image: /images/user.png
 - name: Daniela Calzetti
+  institution: UMass Amherst
   image: /images/user.png  
 - name: Linda Smith
+  institution: STScI
   image: /images/user.png  
 - name: Helena Faustino Vieira
+  institution: Stockholm University 
   role: Postdoc
   image: /images/user.png
 - name: Alex Pedrini
+  institution: Stockholm University 
   role: PhD Student
   image: /images/user.png
