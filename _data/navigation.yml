@@ -5,8 +5,8 @@ main:
   - title: "Science-ready mosaics"
     url: https://feast-survey.github.io/data_release_post/
   - title: "Team"
-    url: https://feast-survey.github.io/
+    url: /team/
   - title: "Publications"
-    url: https://feast-survey.github.io/
+    url: /publications/
   - title: "Outreach"
-    url: https://feast-survey.github.io/
+    url: /outreach/
