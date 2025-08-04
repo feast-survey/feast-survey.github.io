@@ -2,22 +2,75 @@
   institution: Stockholm University 
   role: Principal Investigator
   image: /images/user.png
-- name: Daniela Calzetti
-  institution: UMass Amherst
+- name: Ahmad A. Ali
+  institution: University of Cologne
   image: /images/user.png  
-- name: Linda J. Smith
+- name: Eric P. Andersson
+  institution: American Museum of National History
+  image: /images/user.png  
+- name: Varun Bajaj
   institution: STScI
   image: /images/user.png  
 - name: Arjan Bik
   institution: Stockholm University 
   image: /images/user.png  
+- name: Giacomo Bortolini
+  institution: Stockholm University 
+  image: /images/user.png
+- name: Anne Buckner
+  institution: Cardiff University 
+  image: /images/user.png
+- name: Daniela Calzetti
+  institution: UMass Amherst
+  image: /images/user.png  
+- name: Michele Cignoni
+  institution: Univeristà di Pisa
+  image: /images/user.png  
+- name: Matteo Correnti
+  institution: INAF Roma
+  image: /images/user.png  
+- name: Ana Duarte-Cabral
+  institution: Cardiff University 
+  image: /images/user.png
+- name: Bruce Elmegreen
+  image: /images/user.png  
+- name: Debra Elmegreen
+  institution: Vassar College
+  image: /images/user.png  
+- name: Helena Faustino Vieira
+  institution: Stockholm University 
+  image: /images/user.png
+- name: John S. Gallagher
+  institution: University of Wisconsin-Madison
+  image: /images/user.png 
+- name: Kathryn Grasha
+  institution: Australian National University
+  image: /images/user.png 
+- name: Benjamin Gregg
+  institution: UMass Amherst
+  image: /images/user.png
+- name: Mike Grudić
+  institution: Carnegie Observatories
+  image: /images/user.png
+- name: Robert Gutermuth
+  institution: UMass Amherst
+  image: /images/user.png
+- name: Kelsey E. Johnson
+  institution: University of Virginia
+  image: /images/user.png 
+- name: Mark Krumholz
+  institution: Australian National University
+  image: /images/user.png 
+- name: Drew Lapeer
+  institution: UMass Amherst
+  image: /images/user.png
+- name: Thomas Lai
+  institution: IPAC
 - name: Sean T. Linden
   institution: University of Arizona
   image: /images/user.png 
-- name: Bruce Elmegreen
-  image: /images/user.png  
-- name: Monica Tosi
-  institution: INAF Bologna
+- name: Jens Melinder
+  institution: Stockholm University 
   image: /images/user.png 
 - name: Matteo Messa
   institution: INAF Bologna
@@ -25,29 +78,21 @@
 - name: Göran Östlin
   institution: Stockholm University 
   image: /images/user.png  
-- name: Varun Bajaj
-  institution: STScI
-  image: /images/user.png  
+- name: Alex Pedrini
+  institution: Stockholm University 
+  image: /images/AlexPedrini.JPG
 - name: Jenna E. Ryon
   institution: STScI
   image: /images/user.png  
-- name: Helena Faustino Vieira
-  institution: Stockholm University 
-  role: Postdoc
-  image: /images/user.png
-- name: Alex Pedrini
-  institution: Stockholm University 
-  role: PhD Student
-  image: /images/AlexPedrini.JPG
-- name: Benjamin Gregg
-  institution: UMass Amherst
-  role: PhD Student
-  image: /images/user.png
-- name: Giacomo Bortolini
-  institution: Stockholm University 
-  role: PhD Student
-  image: /images/user.png
-- name: Drew Lapeer
-  institution: UMass Amherst
-  role: PhD Student
-  image: /images/user.png
+- name: Elena Sabbi
+  institution: NOIRLab
+  image: /images/user.png 
+- name: Elena Sacchi
+  institution: AIP
+  image: /images/user.png 
+- name: Linda J. Smith
+  institution: STScI
+  image: /images/user.png  
+- name: Monica Tosi
+  institution: INAF Bologna
+  image: /images/user.png 
