@@ -1,14 +1,14 @@
 ---
 layout: splash
-title: "Meet Our Team"
+title: Meet Our Team
 permalink: /Team/
 header:
   overlay_image:/images/ngc4449NC.jpg
-  overlay_filter: "0.5"
+  overlay_filter: 0.5
   caption: "Photo credit: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
   actions:
     - label: "Back to Home"
-      url: "/"
+      url: /
 ---
 
 {% include team.html %}
