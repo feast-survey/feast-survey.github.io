@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Meet Our Team
-permalink: /Team/
+permalink: /team/
 header:
   overlay_image: /images/ngc4449NC.jpg
   overlay_filter: 0.5
