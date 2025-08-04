@@ -7,6 +7,6 @@ main:
   - title: "Team"
     url: /team/
   - title: "Publications"
-    url: /publications/
+    url: https://ui.adsabs.harvard.edu/public-libraries/GRuGsIj-ScC-PeUMHiq98w
   - title: "Outreach"
     url: /outreach/
