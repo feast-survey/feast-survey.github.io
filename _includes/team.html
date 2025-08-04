@@ -3,7 +3,8 @@
     <div class="member-card">
       <img src="{{ member.image }}" alt="{{ member.name }}">
       <h3>{{ member.name }}</h3>
-      <p><strong>{{ member.role }}</strong></p>
+      <p><strong>{{ member.institution }}</strong></p>
+      <p>{{ member.role }}</p>
       <p>{{ member.bio }}</p>
       {% if member.github %}
         <p><a href="https://github.com/{{ member.github }}" target="_blank">GitHub</a></p>
