@@ -66,6 +66,7 @@
   image: /images/user.png
 - name: Thomas Lai
   institution: IPAC
+  image: /images/user.png 
 - name: Sean T. Linden
   institution: University of Arizona
   image: /images/user.png 
