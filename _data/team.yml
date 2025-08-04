@@ -25,6 +25,12 @@
 - name: Göran Östlin
   institution: Stockholm University 
   image: /images/user.png  
+- name: Varun Bajaj
+  institution: STScI
+  image: /images/user.png  
+- name: Jenna E. Ryon
+  institution: STScI
+  image: /images/user.png  
 - name: Helena Faustino Vieira
   institution: Stockholm University 
   role: Postdoc
