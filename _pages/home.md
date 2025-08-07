@@ -7,10 +7,10 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /images/m83miri.jpeg
 feature_row2:
-  - image_path: <!--/images/logoFEASTvec.svg-->
+  - image_path: #/images/logoFEASTvec.svg
     #alt: "placeholder image 2"
     title: "What is FEAST"
-    <!--excerpt: ''-->
+    #excerpt: ''
 feature_row:
   - image_path: 
     title: "Data release"
