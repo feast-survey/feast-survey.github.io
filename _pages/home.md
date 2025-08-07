@@ -10,7 +10,7 @@ feature_row2:
   - image_path: /images/logoFEASTvec.svg
     #alt: "placeholder image 2"
     title: "What is FEAST"
-    excerpt: 'here we will have a description of the survey'
+    excerpt: 'FEAST is a JWST Cycle 1 program (GO 1783, PI Adamo) aimed at revolutionizing our understanding of star formation and stellar feedback across diverse galactic environments.'
 feature_row:
   - image_path: 
     title: "Data release"
