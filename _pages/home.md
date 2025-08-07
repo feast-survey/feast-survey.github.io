@@ -24,7 +24,12 @@ Much of our knowledge of stellar feedback comes from detailed studies of nearby 
 
 What sets FEAST apart is its unparalleled **multi-wavelength coverage**, combining data from HST, MUSE, ALMA, as well as new JWST NIRCam and MIRI imaging (GO 1783) imaging and NIRSpec multiplex spectroscopy (GO 3503), at previously unreachable spatial resolutions (on the scale of **parsecs**).
 
+### Scientific Objectives
 
+FEAST is designed to address fundamental questions about how young star clusters (the building blocks of galaxies) interact with their surroundings, and how subsequent stellar feedbacl processes regulate galaxy evolution.
+
+Specifically, FEAST's goals are:
+* Detect thousands of young star clusters above <math display="inline"> <msup> <mi>10</mi><mn>3</mn> </msup> M<sub>☉</sub> </math>.
 
 BLAH 
 
