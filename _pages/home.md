@@ -6,6 +6,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/m83miri.jpeg
+  caption: "Photo credit: ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
 feature_row2:
   - image_path: #/images/logoFEASTvec.svg
     #alt: "placeholder image 2"
