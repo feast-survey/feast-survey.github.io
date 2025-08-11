@@ -16,7 +16,7 @@
   image: /images/ArjanBik.jpg  
 - name: Giacomo Bortolini
   institution: Stockholm University 
-  image: /images/user.png
+  image: /images/Giacomo_pic.jpg
 - name: Anne Buckner
   institution: Cardiff University 
   image: /images/user.png
@@ -48,7 +48,7 @@
   image: /images/user.png 
 - name: Benjamin Gregg
   institution: UMass Amherst
-  image: /images/user.png
+  image: /images/BenGregg.jpg
 - name: Mike Grudić
   institution: Carnegie Observatories
   image: /images/user.png
@@ -69,7 +69,7 @@
   image: /images/user.png 
 - name: Sean T. Linden
   institution: University of Arizona
-  image: /images/user.png 
+  image: /images/Sean_Linden.JPG 
 - name: Jens Melinder
   institution: Stockholm University 
   image: /images/user.png 
@@ -78,7 +78,7 @@
   image: /images/user.png 
 - name: Göran Östlin
   institution: Stockholm University 
-  image: /images/user.png  
+  image: /images/GO.jpg  
 - name: Alex Pedrini
   institution: Stockholm University 
   image: /images/AlexPedrini.JPG
@@ -90,7 +90,7 @@
   image: /images/user.png 
 - name: Elena Sacchi
   institution: AIP
-  image: /images/user.png 
+  image: /images/ESacchi.JPG 
 - name: Linda J. Smith
   institution: STScI
   image: /images/user.png  
