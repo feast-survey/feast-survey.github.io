@@ -26,13 +26,13 @@ feature_row:
 
 FEAST is a JWST Cycle 1 program (GO 1783, PI Adamo) aimed at revolutionizing our understanding of star formation and stellar feedback across diverse galactic environments. 
 
-Much of our knowledge of stellar feedback comes from detailed studies of nearby star-forming regions within the Milky Way. FEAST breaks new ground by targeting **extragalactic systems**, enabling a more complete and representative picture of star formation in the Local Universe. The FEAST targets are drawn from the well-studied Local Volume Legacy (LVL) survey, which targets galaxies within 11 Mpc. Our galaxy sample (NGC628, M83, M51, NGC4449 and NGC4485/NGC4490) includes a remarkable range of environments: from nuclear starburts and molecular rings, to interacting galaxies, as well as low-pressure dwarf systems and diverse spiral arm morphologies.
+Much of our knowledge of stellar feedback comes from detailed studies of nearby star-forming regions within the Milky Way. FEAST breaks new ground by targeting **extragalactic systems**, enabling a more complete and representative picture of star formation in the Local Universe. The FEAST targets are drawn from the well-studied Local Volume Legacy (LVL) survey, which targets galaxies within 11 Mpc. Our galaxy sample (NGC628, M83, M51, NGC4449 and NGC4485/NGC4490) includes a remarkable range of environments: from nuclear starburst and molecular rings, to interacting galaxies, as well as low-pressure dwarf systems and diverse spiral arm morphologies.
 
 What sets FEAST apart is its unparalleled **multi-wavelength coverage**, combining data from HST, MUSE, ALMA, as well as new JWST NIRCam and MIRI imaging (GO 1783) imaging and NIRSpec multiplex spectroscopy (GO 3503), at previously unreachable spatial resolutions (on the scale of **parsecs**).
 
 ### Scientific Objectives
 
-FEAST is designed to address fundamental questions about how young star clusters (the building blocks of galaxies) interact with their surroundings, and how subsequent stellar feedbacl processes regulate galaxy evolution.
+FEAST is designed to address fundamental questions about how young star clusters (the building blocks of galaxies) interact with their surroundings, and how subsequent stellar feedback processes regulate galaxy evolution.
 
 Specifically, FEAST's goals are:
 * Trace the emergence of star clusters and associated stellar feedback 
@@ -41,6 +41,8 @@ Specifically, FEAST's goals are:
     * By mapping the morphological and temporal evolution of H II regions and photodissociation regions (PDRs) with both HST and JWST, FEAST unveils the embedded and obscured phases of star formation where stellar feedback is playing an active role in shaping the star-forming complex.
 * Calibrate next-generation models
     * The rich dataset from FEAST provides important benchmarks for self-consistent models of stellar, gas and dust emission, helping to interpret observations of star formation in galaxies across cosmic time.
+* Discover the history of galaxies
+    * Our resolved field stars provide unprecedented key information on the evolution of the target galaxies, on the evolution and production of important stellar evolutionary phases (e.g. AGBs and their dust production), and on the similarities (or differences, if any) between cluster and field star formation. 
  
 ### Why FEAST matters
 As Spitzer was transformative for our understanding of star formation in the Milky Way, JWST-FEAST will be the breakthrough for extragalactic star formation and stellar feedback studies. By extending our reach beyond the local backyard, FEAST sets the foundation for a deeper understanding of how stars, clusters and galaxies evolve.
