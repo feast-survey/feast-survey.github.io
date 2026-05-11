@@ -3,6 +3,9 @@ title: "The emerging timescale of young star clusters regulated by cluster stell
 date: 2026-05-06
 journal: "Nature Astronomy"
 
+image: /assets/images/ESApress2026.jpg
+image_credit: "ESA/Webb, NASA & CSA, A. Pedrini, A. Adamo (Stockholm University) and the FEAST JWST team"
+
 links:
   - label: "ESA Press Release"
     url: "https://esawebb.org/news/weic2608/"
