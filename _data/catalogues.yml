@@ -1,0 +1,35 @@
+# FEAST cluster catalogues: one entry per galaxy.
+# To add a catalogue, add a population (or a galaxy) here and put the file in /catalogues/.
+# image: leave empty ("") to show a placeholder until a press-release image is available.
+
+- galaxy: "M51"
+  image: /images/catalogues/M51.jpg
+  credit: "ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
+  populations:
+    - name: "eYSC I"
+      description: "Emerging young star clusters, type I. (Description to be added.)"
+      file: /catalogues/M51_eyscI_test.txt
+
+- galaxy: "M83"
+  image: /images/catalogues/M83.jpg
+  credit: "ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
+  populations:
+    - name: "eYSC I"
+      description: "Emerging young star clusters, type I. (Description to be added.)"
+      file: /catalogues/M83_eyscI_test.txt
+
+- galaxy: "NGC 628"
+  image: ""
+  credit: ""
+  populations:
+    - name: "eYSC I"
+      description: "Emerging young star clusters, type I. (Description to be added.)"
+      file: /catalogues/NGC628_eyscI_test.txt
+
+- galaxy: "NGC 4449"
+  image: /images/catalogues/NGC4449.jpg
+  credit: "ESA/Webb, NASA & CSA, A. Adamo (Stockholm University) and the FEAST JWST team"
+  populations:
+    - name: "eYSC I"
+      description: "Emerging young star clusters, type I. (Description to be added.)"
+      file: /catalogues/NGC4449_eyscI_test.txt

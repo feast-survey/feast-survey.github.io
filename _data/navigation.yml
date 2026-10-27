@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Advanced Data products"
-    url: https://feast-survey.github.io/data_release_post/
   - title: "Science-ready mosaics"
     url: https://feast-survey.github.io/data_release_post/
+  - title: "Cluster catalogues"
+    url: /catalogues/
   - title: "Team"
     url: /team/
   - title: "Publications"

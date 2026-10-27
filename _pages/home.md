@@ -12,10 +12,6 @@ feature_row2:
     #alt: "placeholder image 2"
     title: "What is FEAST"
     #excerpt: ''
-feature_row:
-  - image_path: 
-    title: "Data release"
-    url: https://feast-survey.github.io/data_release_post/
 ---
 {% include feature_row id="feature_row2"%}
 
@@ -47,6 +43,4 @@ Specifically, FEAST's goals are:
 ### Why FEAST matters
 As Spitzer was transformative for our understanding of star formation in the Milky Way, JWST-FEAST will be the breakthrough for extragalactic star formation and stellar feedback studies. By extending our reach beyond the local backyard, FEAST sets the foundation for a deeper understanding of how stars, clusters and galaxies evolve.
 
-
-{% include feature_row %}
 
