@@ -66,7 +66,7 @@ header:
 
   <div class="home-links">
     <a class="btn btn--primary btn--large" href="{{ '/catalogues/' | relative_url }}">Cluster catalogues</a>
-    <a class="btn btn--primary btn--large" href="https://ui.adsabs.harvard.edu/public-libraries/GRuGsIj-ScC-PeUMHiq98w/">Publications</a>
+    <a class="btn btn--primary btn--large" href="{{ '/publications/' | relative_url }}">Publications</a>
     <a class="btn btn--primary btn--large" href="{{ '/outreach/' | relative_url }}">Outreach</a>
   </div>
 
