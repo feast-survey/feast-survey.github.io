@@ -10,6 +10,15 @@ permalink: /outreach/
 
 ## {{ post.title }}
 
+{% if post.image %}
+<figure>
+  <img src="{{ post.image }}" alt="{{ post.title }}">
+  {% if post.image_credit %}
+  <figcaption><em>Credit: {{ post.image_credit }}</em></figcaption>
+  {% endif %}
+</figure>
+{% endif %}
+
 **Published:** {{ post.date | date: "%B %Y" }}  
 **Journal:** {{ post.journal }}
 

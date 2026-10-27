@@ -3,6 +3,9 @@ title: "The emerging timescale of young star clusters regulated by cluster stell
 date: 2026-05-06
 journal: "Nature Astronomy"
 
+image: /images/ESApress2026.jpg
+image_credit: "ESA/Webb, NASA & CSA, A. Pedrini, A. Adamo (Stockholm University) and the FEAST JWST team"
+
 links:
   - label: "ESA Press Release"
     url: "https://esawebb.org/news/weic2608/"
@@ -14,6 +17,8 @@ links:
     url: "https://www.media.inaf.it/2026/05/07/feedback-ammassi-stellari-massicci/?brid=YWdncwELMEHsaZeeH9RPL6z6Q3IP"
   - label: "UMASS Press Release"
     url: "https://www.umass.edu/news/article/umass-amherst-astronomer-looks-cradle-where-stars-are-born"
+  - label: "Cardiff University Press Release"
+    url: "https://www.cardiff.ac.uk/news/view/3044526-massive-star-clusters-emerge-from-natal-clouds-1.5-times-faster-than-low-mass-ones,-study-finds"
 ---
 
 
