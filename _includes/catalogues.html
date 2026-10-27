@@ -8,9 +8,6 @@
       {% endif %}
       <div class="cat-body">
         <h3>{{ gal.galaxy }}</h3>
-        {% if gal.credit and gal.credit != "" %}
-          <p class="cat-credit">Image credit: {{ gal.credit }}</p>
-        {% endif %}
         {% for pop in gal.populations %}
           <div class="cat-pop">
             <div class="cat-pop-text">
@@ -61,15 +58,9 @@
   padding: 1.2rem 1.5rem 1.5rem;
 }
 .cat-body h3 {
-  margin: 0 0 0.2rem;
+  margin: 0 0 0.6rem;
   color: #222;
   font-weight: 600;
-}
-.cat-card p.cat-credit {
-  font-size: 0.65rem;
-  line-height: 1.3;
-  color: #777;
-  margin: 0 0 1rem;
 }
 .cat-pop {
   display: flex;
