@@ -1,0 +1,51 @@
+# Weekly update of the publication list from the FEAST ADS library.
+# Needs a repository secret ADS_TOKEN (Settings > Secrets and variables > Actions).
+# Can also be started by hand: Actions tab > "Update publications" > Run workflow.
+name: Update publications
+
+on:
+  schedule:
+    - cron: "17 5 * * 1"      # every Monday, 05:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  update:
+    # only in the FEAST repository, not in personal forks
+    if: github.repository == 'feast-survey/feast-survey.github.io'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch publications from ADS
+        env:
+          ADS_TOKEN: ${{ secrets.ADS_TOKEN }}
+        run: python scripts/update_publications.py
+
+      - name: Commit if the list changed
+        id: commit
+        run: |
+          if git diff --quiet -- _data/publications.json && git ls-files --error-unmatch _data/publications.json >/dev/null 2>&1; then
+            echo "No changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add _data/publications.json
+            git commit -m "Update publication list from ADS"
+            git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Rebuild the website
+        if: steps.commit.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || echo "Pages build will run on its own."

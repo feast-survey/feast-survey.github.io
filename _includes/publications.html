@@ -1,0 +1,66 @@
+<div class="pub-wrap">
+  {% assign pubs = site.data.publications %}
+  {% if pubs and pubs.size > 0 %}
+    <div class="pub-top">
+      <p class="pub-count">{{ pubs.size }} papers from the FEAST team</p>
+      <input id="pub-search" type="search" placeholder="Search title, author, journal…" aria-label="Search publications">
+    </div>
+
+    {% assign years = pubs | group_by: "year" %}
+    {% for y in years %}
+      <section class="pub-year">
+        <h2 class="pub-year-title">{{ y.name }}</h2>
+        <ul class="pub-list">
+        {% for p in y.items %}
+          <li class="pub-item">
+            <span class="pub-title">{{ p.title }}</span><br>
+            <span class="pub-meta">{{ p.authors }} · <em>{{ p.journal }}</em></span>
+            <span class="pub-links">
+              <a href="{{ p.ads }}" target="_blank" rel="noopener">ADS</a>{% if p.arxiv %} · <a href="{{ p.arxiv }}" target="_blank" rel="noopener">arXiv</a>{% endif %}{% if p.doi %} · <a href="{{ p.doi }}" target="_blank" rel="noopener">DOI</a>{% endif %}
+            </span>
+          </li>
+        {% endfor %}
+        </ul>
+      </section>
+    {% endfor %}
+    <p class="pub-none" id="pub-none" hidden>No papers match your search.</p>
+  {% else %}
+    <p class="pub-count">The publication list will appear here after the first update.</p>
+  {% endif %}
+</div>
+
+<style>
+.pub-wrap { max-width: 900px; margin: 2rem auto 3rem; padding: 0 1rem; box-sizing: border-box; }
+.pub-top { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: space-between; margin-bottom: 0.5rem; }
+.pub-count { color: #ccc; margin: 0; font-size: 0.9rem; }
+#pub-search { flex: 1 1 260px; max-width: 320px; padding: 0.4rem 0.7rem; border-radius: 6px; border: 1px solid #555; background: #fff; color: #222; font-size: 0.85rem; }
+.pub-year-title { color: #fff; margin: 1.8rem 0 0.4rem; font-size: 1.2rem; font-weight: 600; }
+.pub-list { list-style: none; margin: 0; padding: 0; }
+.pub-item { padding: 0.55rem 0; border-bottom: 1px solid rgba(255,255,255,0.12); line-height: 1.4; }
+.pub-item .pub-title { color: #fff; font-size: 0.92rem; font-weight: 600; }
+.pub-item .pub-meta { color: #aaa; font-size: 0.8rem; }
+.pub-item .pub-links { font-size: 0.8rem; margin-left: 0.4rem; white-space: nowrap; }
+.pub-item .pub-links a { color: #f21368; text-decoration: none; font-weight: 600; }
+.pub-item .pub-links a:hover { text-decoration: underline; }
+.pub-none { color: #ccc; }
+</style>
+
+<script>
+(function () {
+  var box = document.getElementById('pub-search');
+  if (!box) return;
+  box.addEventListener('input', function () {
+    var q = box.value.trim().toLowerCase(), shown = 0;
+    document.querySelectorAll('.pub-year').forEach(function (sec) {
+      var any = false;
+      sec.querySelectorAll('.pub-item').forEach(function (c) {
+        var ok = !q || c.textContent.toLowerCase().indexOf(q) !== -1;
+        c.style.display = ok ? '' : 'none';
+        if (ok) { any = true; shown++; }
+      });
+      sec.style.display = any ? '' : 'none';
+    });
+    document.getElementById('pub-none').hidden = shown > 0;
+  });
+})();
+</script>
