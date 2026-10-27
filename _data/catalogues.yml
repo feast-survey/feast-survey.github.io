@@ -9,6 +9,12 @@
     - name: "eYSC I"
       description: "Emerging young star clusters, type I. (Description to be added.)"
       file: /catalogues/M51_eyscI_test.txt
+    - name: "eYSC II"
+      description: "Emerging young star clusters, type II. (Description to be added.)"
+      file: /catalogues/M51_eyscII_test.txt
+    - name: "Optical"
+      description: "Optically selected star clusters. (Description to be added.)"
+      file: /catalogues/M51_optical_test.txt
 
 - galaxy: "M83"
   image: /images/ESAm83.jpg
@@ -17,6 +23,12 @@
     - name: "eYSC I"
       description: "Emerging young star clusters, type I. (Description to be added.)"
       file: /catalogues/M83_eyscI_test.txt
+    - name: "eYSC II"
+      description: "Emerging young star clusters, type II. (Description to be added.)"
+      file: /catalogues/M83_eyscII_test.txt
+    - name: "Optical"
+      description: "Optically selected star clusters. (Description to be added.)"
+      file: /catalogues/M83_optical_test.txt
 
 - galaxy: "NGC 628"
   image: /images/ESA628.jpg
@@ -25,6 +37,12 @@
     - name: "eYSC I"
       description: "Emerging young star clusters, type I. (Description to be added.)"
       file: /catalogues/NGC628_eyscI_test.txt
+    - name: "eYSC II"
+      description: "Emerging young star clusters, type II. (Description to be added.)"
+      file: /catalogues/NGC628_eyscII_test.txt
+    - name: "Optical"
+      description: "Optically selected star clusters. (Description to be added.)"
+      file: /catalogues/NGC628_optical_test.txt
 
 - galaxy: "NGC 4449"
   image: /images/ESAngc4449.jpg
@@ -33,3 +51,9 @@
     - name: "eYSC I"
       description: "Emerging young star clusters, type I. (Description to be added.)"
       file: /catalogues/NGC4449_eyscI_test.txt
+    - name: "eYSC II"
+      description: "Emerging young star clusters, type II. (Description to be added.)"
+      file: /catalogues/NGC4449_eyscII_test.txt
+    - name: "Optical"
+      description: "Optically selected star clusters. (Description to be added.)"
+      file: /catalogues/NGC4449_optical_test.txt
