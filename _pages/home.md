@@ -61,7 +61,7 @@ header:
 
   <div class="home-box home-why">
     <h2>Why FEAST matters</h2>
-    <p>As Spitzer was transformative for our understanding of star formation in the Milky Way, JWST-FEAST will be the breakthrough for extragalactic star formation and stellar feedback studies. By extending our reach beyond the local backyard, FEAST sets the foundation for a deeper understanding of how stars, clusters and galaxies evolve.</p>
+    <p>As Spitzer was transformative for our understanding of star formation in the Milky Way, FEAST will be the breakthrough for extragalactic star formation and stellar feedback studies. By extending our reach beyond the local backyard, FEAST sets the foundation for a deeper understanding of how stars, clusters and galaxies evolve.</p>
   </div>
 
   <div class="home-links">
