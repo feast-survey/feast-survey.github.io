@@ -72,18 +72,6 @@
   "doi": "https://doi.org/10.3847/1538-4357/ae3a92"
  },
  {
-  "bibcode": "2026MNRAS.545f2025B",
-  "title": "The spatial evolution of star clusters in NGC 628 with JWST",
-  "authors": "Buckner, Anne S. M.; Duarte-Cabral, Ana; Adamo, Angela et al.",
-  "n_authors": 26,
-  "journal": "Monthly Notices of the Royal Astronomical Society, 545, staf2025",
-  "year": "2026",
-  "pubdate": "2026-01-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2025B/abstract",
-  "arxiv": "https://arxiv.org/abs/2511.11115",
-  "doi": "https://doi.org/10.1093/mnras/staf2025"
- },
- {
   "bibcode": "2026ApJ...997...20G",
   "title": "The Calibration of Short-wavelength Polycyclic Aromatic Hydrocarbon Emission as Star Formation Rate Indicators with JWST",
   "authors": "Gregg, Benjamin; Calzetti, Daniela; Adamo, Angela et al.",
@@ -96,6 +84,18 @@
   "doi": "https://doi.org/10.3847/1538-4357/ae1ca8"
  },
  {
+  "bibcode": "2026MNRAS.545f2025B",
+  "title": "The spatial evolution of star clusters in NGC 628 with JWST",
+  "authors": "Buckner, Anne S. M.; Duarte-Cabral, Ana; Adamo, Angela et al.",
+  "n_authors": 26,
+  "journal": "Monthly Notices of the Royal Astronomical Society, 545, staf2025",
+  "year": "2026",
+  "pubdate": "2026-01-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2026MNRAS.545f2025B/abstract",
+  "arxiv": "https://arxiv.org/abs/2511.11115",
+  "doi": "https://doi.org/10.1093/mnras/staf2025"
+ },
+ {
   "bibcode": "2025ApJ...993...13K",
   "title": "FEAST: JWST Uncovers the Emerging Timescales of Young Star Clusters in M83",
   "authors": "Knutas, Alice; Adamo, Angela; Pedrini, Alex et al.",
@@ -106,18 +106,6 @@
   "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...993...13K/abstract",
   "arxiv": "https://arxiv.org/abs/2505.08874",
   "doi": "https://doi.org/10.3847/1538-4357/ae018c"
- },
- {
-  "bibcode": "2025ApJ...991..198C",
-  "title": "Quantification of the Age Dependence of Mid-infrared Star Formation Rate Indicators",
-  "authors": "Calzetti, Daniela; Kennicutt, Robert C.; Adamo, Angela et al.",
-  "n_authors": 36,
-  "journal": "The Astrophysical Journal, 991, 198",
-  "year": "2025",
-  "pubdate": "2025-10-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...991..198C/abstract",
-  "arxiv": "https://arxiv.org/abs/2508.08451",
-  "doi": "https://doi.org/10.3847/1538-4357/adfbe0"
  },
  {
   "bibcode": "2025ApJ...992...96P",
@@ -142,6 +130,18 @@
   "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...991..212B/abstract",
   "arxiv": "https://arxiv.org/abs/2509.01740",
   "doi": "https://doi.org/10.3847/1538-4357/adfccc"
+ },
+ {
+  "bibcode": "2025ApJ...991..198C",
+  "title": "Quantification of the Age Dependence of Mid-infrared Star Formation Rate Indicators",
+  "authors": "Calzetti, Daniela; Kennicutt, Robert C.; Adamo, Angela et al.",
+  "n_authors": 36,
+  "journal": "The Astrophysical Journal, 991, 198",
+  "year": "2025",
+  "pubdate": "2025-10-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...991..198C/abstract",
+  "arxiv": "https://arxiv.org/abs/2508.08451",
+  "doi": "https://doi.org/10.3847/1538-4357/adfbe0"
  },
  {
   "bibcode": "2025ApJ...990...72C",
@@ -180,18 +180,6 @@
   "doi": "https://doi.org/10.33232/001c.130810"
  },
  {
-  "bibcode": "2024ApJ...971..115G",
-  "title": "Feedback in Emerging Extragalactic Star Clusters, FEAST: The Relation between 3.3 μm Polycyclic Aromatic Hydrocarbon Emission and Star Formation Rate Traced by Ionized Gas in NGC 628",
-  "authors": "Gregg, Benjamin; Calzetti, Daniela; Adamo, Angela et al.",
-  "n_authors": 26,
-  "journal": "The Astrophysical Journal, 971, 115",
-  "year": "2024",
-  "pubdate": "2024-08-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971..115G/abstract",
-  "arxiv": "https://arxiv.org/abs/2405.09667",
-  "doi": "https://doi.org/10.3847/1538-4357/ad54b4"
- },
- {
   "bibcode": "2024ApJ...971...32P",
   "title": "FEAST: Feedback in Emerging extragAlactic Star ClusTers: JWST Spots Polycyclic Aromatic Hydrocarbon Destruction in NGC 628 during the Emerging Phase of Star Formation",
   "authors": "Pedrini, Alex; Adamo, Angela; Calzetti, Daniela et al.",
@@ -202,6 +190,18 @@
   "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971...32P/abstract",
   "arxiv": "https://arxiv.org/abs/2406.01666",
   "doi": "https://doi.org/10.3847/1538-4357/ad534d"
+ },
+ {
+  "bibcode": "2024ApJ...971..115G",
+  "title": "Feedback in Emerging Extragalactic Star Clusters, FEAST: The Relation between 3.3 μm Polycyclic Aromatic Hydrocarbon Emission and Star Formation Rate Traced by Ionized Gas in NGC 628",
+  "authors": "Gregg, Benjamin; Calzetti, Daniela; Adamo, Angela et al.",
+  "n_authors": 26,
+  "journal": "The Astrophysical Journal, 971, 115",
+  "year": "2024",
+  "pubdate": "2024-08-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971..115G/abstract",
+  "arxiv": "https://arxiv.org/abs/2405.09667",
+  "doi": "https://doi.org/10.3847/1538-4357/ad54b4"
  },
  {
   "bibcode": "2024ApJ...971..118C",
