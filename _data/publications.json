@@ -1,15 +1,15 @@
 [
  {
-  "bibcode": "2026arXiv261029405B",
-  "title": "FEAST: Spatially Resolved Star Formation History of the NGC 4485/NGC 4490 System and its Tidal Bridge from JWST/NIRCam Color Magnitude Diagrams",
+  "bibcode": "2026ApJ..1012...41B",
+  "title": "FEAST: Spatially Resolved Star Formation History of the NGC 4485-NGC 4490 System and Its Tidal Bridge from JWST/NIRCam Color-Magnitude Diagrams",
   "authors": "Bortolini, Giacomo; Correnti, Matteo; Adamo, Angela et al.",
   "n_authors": 22,
-  "journal": "arXiv e-prints, arXiv:2610.29405",
+  "journal": "The Astrophysical Journal, 1012, 41",
   "year": "2026",
-  "pubdate": "2026-10-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2026arXiv261029405B/abstract",
+  "pubdate": "2026-11-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2026ApJ..1012...41B/abstract",
   "arxiv": "https://arxiv.org/abs/2610.29405",
-  "doi": "https://doi.org/10.48550/arXiv.2610.29405"
+  "doi": "https://doi.org/10.3847/1538-4357/aeb7e4"
  },
  {
   "bibcode": "2026ApJ..1008..198C",
@@ -108,18 +108,6 @@
   "doi": "https://doi.org/10.3847/1538-4357/ae018c"
  },
  {
-  "bibcode": "2025ApJ...991..198C",
-  "title": "Quantification of the Age Dependence of Mid-infrared Star Formation Rate Indicators",
-  "authors": "Calzetti, Daniela; Kennicutt, Robert C.; Adamo, Angela et al.",
-  "n_authors": 36,
-  "journal": "The Astrophysical Journal, 991, 198",
-  "year": "2025",
-  "pubdate": "2025-10-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...991..198C/abstract",
-  "arxiv": "https://arxiv.org/abs/2508.08451",
-  "doi": "https://doi.org/10.3847/1538-4357/adfbe0"
- },
- {
   "bibcode": "2025ApJ...991..212B",
   "title": "FEAST: JWST/NIRCam View of the Resolved Stellar Populations of the Interacting Dwarf Galaxies NGC 4485 and NGC 4490",
   "authors": "Bortolini, Giacomo; Correnti, Matteo; Adamo, Angela et al.",
@@ -142,6 +130,18 @@
   "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...992...96P/abstract",
   "arxiv": "https://arxiv.org/abs/2509.01670",
   "doi": "https://doi.org/10.3847/1538-4357/ae0182"
+ },
+ {
+  "bibcode": "2025ApJ...991..198C",
+  "title": "Quantification of the Age Dependence of Mid-infrared Star Formation Rate Indicators",
+  "authors": "Calzetti, Daniela; Kennicutt, Robert C.; Adamo, Angela et al.",
+  "n_authors": 36,
+  "journal": "The Astrophysical Journal, 991, 198",
+  "year": "2025",
+  "pubdate": "2025-10-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2025ApJ...991..198C/abstract",
+  "arxiv": "https://arxiv.org/abs/2508.08451",
+  "doi": "https://doi.org/10.3847/1538-4357/adfbe0"
  },
  {
   "bibcode": "2025ApJ...990...72C",
@@ -180,18 +180,6 @@
   "doi": "https://doi.org/10.33232/001c.130810"
  },
  {
-  "bibcode": "2024ApJ...971..115G",
-  "title": "Feedback in Emerging Extragalactic Star Clusters, FEAST: The Relation between 3.3 μm Polycyclic Aromatic Hydrocarbon Emission and Star Formation Rate Traced by Ionized Gas in NGC 628",
-  "authors": "Gregg, Benjamin; Calzetti, Daniela; Adamo, Angela et al.",
-  "n_authors": 26,
-  "journal": "The Astrophysical Journal, 971, 115",
-  "year": "2024",
-  "pubdate": "2024-08-00",
-  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971..115G/abstract",
-  "arxiv": "https://arxiv.org/abs/2405.09667",
-  "doi": "https://doi.org/10.3847/1538-4357/ad54b4"
- },
- {
   "bibcode": "2024ApJ...971..118C",
   "title": "JWST-FEAST: Feedback in Emerging extrAgalactic Star clusTers: Calibration of Star Formation Rates in the Mid-infrared with NGC 628",
   "authors": "Calzetti, Daniela; Adamo, Angela; Linden, Sean T. et al.",
@@ -214,6 +202,18 @@
   "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971...32P/abstract",
   "arxiv": "https://arxiv.org/abs/2406.01666",
   "doi": "https://doi.org/10.3847/1538-4357/ad534d"
+ },
+ {
+  "bibcode": "2024ApJ...971..115G",
+  "title": "Feedback in Emerging Extragalactic Star Clusters, FEAST: The Relation between 3.3 μm Polycyclic Aromatic Hydrocarbon Emission and Star Formation Rate Traced by Ionized Gas in NGC 628",
+  "authors": "Gregg, Benjamin; Calzetti, Daniela; Adamo, Angela et al.",
+  "n_authors": 26,
+  "journal": "The Astrophysical Journal, 971, 115",
+  "year": "2024",
+  "pubdate": "2024-08-00",
+  "ads": "https://ui.adsabs.harvard.edu/abs/2024ApJ...971..115G/abstract",
+  "arxiv": "https://arxiv.org/abs/2405.09667",
+  "doi": "https://doi.org/10.3847/1538-4357/ad54b4"
  },
  {
   "bibcode": "2023jwst.prop.3503A",
